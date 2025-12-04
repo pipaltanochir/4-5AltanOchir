@@ -16,7 +16,7 @@ const Monitor = () => {
         </p>
         <div className="flex items-center ">
           <p className="text-blue-500 font-semibold">
-            Learn more about monitoring
+            Learn more about monitoring Learn more about monitoring
           </p>
           <p className="text-blue-500 font-semibold text-2xl">→</p>
         </div>
