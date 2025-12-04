@@ -1,5 +1,6 @@
 import React from "react";
 import leftImage from "../assets/monitor-card.webp";
+
 const Monitor = () => {
   return (
     <div className="flex w-full">
